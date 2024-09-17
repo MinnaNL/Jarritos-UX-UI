@@ -1,8 +1,4 @@
-# minna-nordlund-grafik-omex-fend23
-
-Komplettering för Grafikverkyg FEND23
-av Minna Nordlund
-
+# Grafikverktyg FEND23
 # Länk Figma
 
 https://www.figma.com/file/xUnliZPKO2UA8dSFcGvXcs/Minna-Nordlund?type=design&node-id=0%3A1&mode=design&t=lDUZNiuKWvhbsES2-1
