@@ -1,12 +1,16 @@
 # Grafikverktyg FEND23
-# Länk Figma
+Uppgift: Designa en hemsida, göra prototyp i Figma och paketera underlaget för produktion.
 
-https://www.figma.com/file/xUnliZPKO2UA8dSFcGvXcs/Minna-Nordlund?type=design&node-id=0%3A1&mode=design&t=lDUZNiuKWvhbsES2-1
+Länk Figma: https://www.figma.com/proto/xUnliZPKO2UA8dSFcGvXcs/Minna-Nordlund?node-id=0-1&t=Je1Jq9CFZI5dfTk0-1
+
+![home 1](https://github.com/user-attachments/assets/f5528713-f00c-4ceb-974b-e955f7d56e6f)
+
+![about](https://github.com/user-attachments/assets/b4ee69f1-5a40-48c2-ba55-ae776e44a518)
 
 # Uppgiften
 
 Mexikanska läskföretaget Jarritos har beställt en ny hemsida. De säljer färgglada, fruktiga läsker, vilket figma-designen tagit inspiration av. För att balansera ut de mer kulörta accent-färgerna, valdes neautrala färger till bakgrund och text.
-llt innehåll på sidan är skapat med hjälp av chatGPT och sidan är skapad i utbildningssyfte och har noll koppling till det riktiga företaget Jarritos.
+Allt textinnehåll på sidan är skapat med hjälp av chatGPT och sidan är skapad i utbildningssyfte och har noll koppling till det riktiga företaget Jarritos.
 Jag valde Jarritos för att det gjorde sidans innehåll lagom begränsat, det finns bara ett fåtal läsker vilket gör att projektet inte växer sig alltför stort med tanke på tidsramen.
 Jag tycker annars det är lätt att snöa in på hur man ska kategorisera, filtrera och sortera en större mängd produkter.
 Det är inte tänkt att vara en webbshop utan en informationssida om företaget, deras historia, smaker och i vilka butiker de säljs.
