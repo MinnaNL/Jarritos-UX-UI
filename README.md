@@ -1,11 +1,11 @@
 # Grafikverktyg FEND23
 Uppgift: Designa en hemsida, göra prototyp i Figma och paketera underlaget för produktion.
-
 Länk Figma: https://www.figma.com/proto/xUnliZPKO2UA8dSFcGvXcs/Minna-Nordlund?node-id=0-1&t=Je1Jq9CFZI5dfTk0-1
+
+![about](https://github.com/user-attachments/assets/b4ee69f1-5a40-48c2-ba55-ae776e44a518)
 
 ![home 1](https://github.com/user-attachments/assets/f5528713-f00c-4ceb-974b-e955f7d56e6f)
 
-![about](https://github.com/user-attachments/assets/b4ee69f1-5a40-48c2-ba55-ae776e44a518)
 
 # Uppgiften
 
